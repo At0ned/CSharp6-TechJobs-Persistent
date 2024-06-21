@@ -30,4 +30,6 @@ public class AddJobViewModel
 
 }
 
+public AddJobViewModel() { }
+
 }
